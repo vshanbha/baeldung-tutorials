@@ -13,6 +13,10 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
+    <modules>
+        <module>selenium-shadowroot-demo</module>
+    </modules>
+
     <build>
         <resources>
             <resource>
